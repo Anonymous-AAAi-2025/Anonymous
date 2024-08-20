@@ -2,9 +2,10 @@
 aaai 2025 anonymous code
 
 ## Comparison with sota
+<video src="src/comparisons1.mp4" width="320" height="240" controls>
+  Your browser does not support the video tag.
+</video>
 
-
-[/src/comparisons1.mp4](https://github.com/Anonymous-AAAi-2025/Anonymous/blob/main/src/ablation.mp4)
 
 
 
