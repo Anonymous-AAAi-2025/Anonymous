@@ -10,4 +10,6 @@ aaai 2025 anonymous code
 <video src="src/cosplay.mp4" ></video>
 
 ## ablation study
-<video src="https://github.com/Anonymous-AAAi-2025/Anonymous/blob/main/src/ablation.mp4"></video>
+<iframe width=600px height=400px src="https://github.com/Anonymous-AAAi-2025/Anonymous/blob/main/src/ablation.mp4" >
+</iframe>
+<!-- <video src="https://github.com/Anonymous-AAAi-2025/Anonymous/blob/main/src/ablation.mp4"></video> -->
